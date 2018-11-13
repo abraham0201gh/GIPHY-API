@@ -1,8 +1,8 @@
 # GIPHY-API
 
-•	What the project does:
+  •	What the project does:
 
-  •	Use of GIPHY API to string together images (still and animation) to allow a user to engage with pre-selected topics.  
+- Use of GIPHY API to string together images (still and animation) to allow a user to engage with pre-selected topics.  
 
 This app begins by making available ten different GIPHY topic items for the user to choose from within a fast food theme.  Furthermore, the user can add individually selected additional items to the array buttons for further viewing.  
 
