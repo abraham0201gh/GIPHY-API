@@ -1,0 +1,25 @@
+
+body {
+    background-color: rgb(172, 215, 223);
+    padding-top: 10px;
+}
+
+#fastFood-searchForm {
+    margin-top: 50px;
+    margin-left: 800px;
+}    
+
+
+#gifImageRatings {
+    float: left;
+    width: 800px; 
+}
+
+.fastFooditems {
+    float: left;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-right: 20px;
+    align-items: left;
+}
