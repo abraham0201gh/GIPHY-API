@@ -1,5 +1,10 @@
 # GIPHY-API
 
+https://abraham0201gh.github.io/GIPHY-API/
+
+
+About this App:  The GIPHY API is used to make a dynamic web page that populates with GIF images of the users choice within a pre-established food theme. 
+
 What the project does:
 
 - Use of GIPHY API to string together images (still and animation) to allow a user to engage with pre-selected topics.  
